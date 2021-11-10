@@ -1,0 +1,16 @@
+The sudoku solver is my own implementation of algorithmic coding and OOP to try and accomplish the task of solving any standard sudoku board.
+The solver currently uses a brute force method of trying numbers with a set of rules for how to properly go back if there is not a currently available solution for that space.
+This appears in the form of (test numbers {1-9} starting with 1 and incrementing until 9 has been tested) if(9 && !correct) move back to previous space and test from stored number.
+
+I worked out the bugs that have arisen from a total testing of 50 seperate standard sudoku puzzles. (I realize this is a low number and more testing will be done)
+
+Current aspirations for this project are as follows:
+  1. Finish the GUI to at least make testing faster and provide users with an easy means to submit boards (currently hard coded *bleh*)
+  2. Use a machine learning library for graphic recognition to implement a board finder.
+      a. The board finder will be able to recognize an available sudoku board on the screen and pass the digits and locations to the program.
+      b. Preferrably implemented in a way that from the GUI the user can put the sudoku solver into find board mode.
+  3. Have visual representation of the solver attempting to solve the board and display where it is and what it is doing.
+  4. Try to implement several other solutions
+      a. Another algorithm with additional rules that take into account the existing locations and numbers and what that implies
+      b. Maybe a solution that can handle applying additional rules placed on the sudoku board
+      c. Or an option for the user to change rules or include more expansive rules.
