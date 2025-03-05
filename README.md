@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Matty Jester AKA @hyperhuman 
+- 👋 Hello, I’m Maddi!
 - 👀 I’m interested in biological-digital interface systems, augmented reality, and intelligent system design.
 - 🌱 I’m currently looking for jobs, projects, and opportunities to explore these interests.
 - 💞️ I’m looking to collaborate on any open source project that relates to these fields and has applicable use.
