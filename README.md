@@ -2,7 +2,7 @@
 - 👀 I’m interested in biological-digital interface systems, augmented reality, and intelligent system design.
 - 🌱 I’m currently looking for jobs, projects, and opportunities to explore these interests.
 - 💞️ I’m looking to collaborate on any open source project that relates to these fields and has applicable use.
-- 📫 How to reach me feel free to contact me at hyperhuman.twitch@gmail.com
+- 📫 How to reach me feel free to contact me at maddijest@gmail.com
 
 *Some Fun Facts*
 
